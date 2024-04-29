@@ -1,4 +1,12 @@
-# codenames
+# Codenames Overview
+- Developed a web-based version of the Codenames game, leveraging FastAPI for backend and React for frontend, demonstrating full-stack development capabilities.
+- Implemented database models and Data Access Objects (DAOs) in Python, showcasing skills in database design and management.
+- Created a dynamic and interactive user interface using React, enhancing user engagement and experience.
+- Utilized Docker for application deployment, demonstrating knowledge in containerization and deployment strategies.
+- Integrated WebSockets for real-time gameplay, showcasing ability in handling live, interactive web applications.
+- Conducted comprehensive unit testing, ensuring application reliability and maintainability.
+- Achieved seamless integration of frontend and backend components, highlighting expertise in full-stack development and system integration.
+
 
 This project was generated using fastapi_template.
 
