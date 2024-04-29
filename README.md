@@ -8,6 +8,8 @@
 - Achieved seamless integration of frontend and backend components, highlighting expertise in full-stack development and system integration.
 
 
+**Note**: This code and repository are for showcasing my projects and are not intended for external use. 
+
 This project was generated using fastapi_template.
 
 ## Poetry
